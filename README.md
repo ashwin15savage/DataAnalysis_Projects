@@ -13,6 +13,14 @@ With these numbers we cannot get any insights so we use Business Intelligence to
  2. Tableau to create dashboards based on the cleaned data
 
 
+### Revenue Analysis
+<img width="761" alt="image" src="https://user-images.githubusercontent.com/68583898/142902566-767506c0-994b-41a2-a76c-4a00d3b7cbf9.png">
+
+### Profit Analysis
+<img width="602" alt="image" src="https://user-images.githubusercontent.com/68583898/142902754-dcbb451f-f314-470b-a9fe-0d495e61b3aa.png">
+
+
+
 
 
 
